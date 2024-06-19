@@ -177,6 +177,6 @@ class Program
         Console.WriteLine($"Сумма элементов массива: {sum}");
         Console.WriteLine($"Среднее арифметическое элементов массива: {average}");
 
-        Console.ReadLine(); // Чтобы консольное окно не закрывалось сразу
+        Console.ReadLine();
     }
 }
